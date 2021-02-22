@@ -1,0 +1,30 @@
+﻿logo{
+width:100%;
+heigth:55px;
+border:1px;
+align:center:
+background-color:#d1f77e;
+font-size:20px;
+}
+
+tbody{
+width:100%;
+heigth:100px;
+background-color:#d1f77e;
+font-style: "Times New Roman";
+font-size:12px;
+}
+
+sidebar{
+width:100%;
+background-color:#ff75fa;
+font-style: "Times New Roman";
+font-size:12px;
+}
+
+podval{
+width:100%;
+background-color:#d1f77e;
+font-style: "Times New Roman";
+font-size:20px;
+}
